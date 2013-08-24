@@ -16,7 +16,6 @@
 
 package com.google.android.apps.dashclock;
 
-import net.nurik.roman.dashclock.BuildConfig;
 import net.nurik.roman.dashclock.R;
 
 import android.content.Context;

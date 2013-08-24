@@ -16,13 +16,13 @@
 
 package com.google.android.apps.dashclock.configuration;
 
+import com.google.android.apps.dashclock.BuildConfig;
 import com.google.android.apps.dashclock.DashClockService;
 import com.google.android.apps.dashclock.HelpUtils;
 import com.google.android.apps.dashclock.LogUtils;
 import com.google.android.apps.dashclock.Utils;
 import com.google.android.apps.dashclock.api.DashClockExtension;
 
-import net.nurik.roman.dashclock.BuildConfig;
 import net.nurik.roman.dashclock.R;
 
 import android.app.Activity;
